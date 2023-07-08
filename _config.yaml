@@ -1,0 +1,2 @@
+# This file is necessary as otherwise by default GitHub Pages ignores directories starting with dots
+include: [".well-known"]
