@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: smtp.google.com
+mx: fem2pule6spinj2gicz3vridom2nmedct2m5umbddh57k6wpqnlq.mx-verification.google.com
+max_age: 86400
